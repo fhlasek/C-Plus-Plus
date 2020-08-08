@@ -1,10 +1,12 @@
 var files_dup =
 [
+    [ "backtracking", "dir_c11585dfcef32a26e29098facab6c144.html", "dir_c11585dfcef32a26e29098facab6c144" ],
     [ "ciphers", "dir_4d6e05837bf820fb089a8a8cdf2f42b7.html", "dir_4d6e05837bf820fb089a8a8cdf2f42b7" ],
     [ "data_structures", "dir_2e746e9d06bf2d8ff842208bcc6ebcfc.html", "dir_2e746e9d06bf2d8ff842208bcc6ebcfc" ],
     [ "geometry", "dir_e3380d2178455503f266746fb14246a5.html", "dir_e3380d2178455503f266746fb14246a5" ],
     [ "graph", "dir_12552d7fa429bf94a2e32e5cf39f7e69.html", "dir_12552d7fa429bf94a2e32e5cf39f7e69" ],
     [ "graphics", "dir_e79632891301b850df87e9c0030293fa.html", "dir_e79632891301b850df87e9c0030293fa" ],
+    [ "hashing", "dir_ece9b94c107bbaa1dd68197a8c9983b9.html", "dir_ece9b94c107bbaa1dd68197a8c9983b9" ],
     [ "machine_learning", "dir_3343723ae086de42ee4ca9774da3a13f.html", "dir_3343723ae086de42ee4ca9774da3a13f" ],
     [ "math", "dir_296d53ceaeaa7e099814a6def439fe8a.html", "dir_296d53ceaeaa7e099814a6def439fe8a" ],
     [ "numerical_methods", "dir_9c6faab82c22511b50177aa2e38e2780.html", "dir_9c6faab82c22511b50177aa2e38e2780" ],
