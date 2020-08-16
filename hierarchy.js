@@ -13,7 +13,7 @@ var hierarchy =
     [ "double_hashing::Entry", "d9/dde/structdouble__hashing_1_1_entry.html", null ],
     [ "FenwickTree", "dd/d91/class_fenwick_tree.html", null ],
     [ "Graph", "da/d9a/class_graph.html", null ],
-    [ "graph", "dd/d9b/classgraph.html", null ],
+    [ "graph::is_graph_bipartite::Graph", "de/d00/classgraph_1_1is__graph__bipartite_1_1_graph.html", null ],
     [ "graph::Graph", "dc/d61/classgraph_1_1_graph.html", [
       [ "graph::RootedTree", "d0/d58/classgraph_1_1_rooted_tree.html", null ]
     ] ],
@@ -33,8 +33,8 @@ var hierarchy =
     [ "node< Type >", "d5/da1/structnode.html", null ],
     [ "Point", "d8/dc8/struct_point.html", null ],
     [ "query", "dd/d1b/structquery.html", null ],
-    [ "queue< Kind >", "db/da9/classqueue.html", null ],
     [ "Queue", "dc/db5/struct_queue.html", null ],
+    [ "queue< Kind >", "db/da9/classqueue.html", null ],
     [ "Queue_Array", "d0/dd2/class_queue___array.html", null ],
     [ "SegmentIntersection", "d4/db4/struct_segment_intersection.html", null ],
     [ "data_structure::SkipList", "d1/d46/classdata__structure_1_1_skip_list.html", null ],
